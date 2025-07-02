@@ -4,6 +4,6 @@ def are_anagrams(str1, str2):
 print(are_anagrams("evil", "vile"))
 # Output: True
 
-print(are_anagrams("truck", "tuckr"))
+print(are_anagrams("truck", "turck"))
 # Output: False
 
